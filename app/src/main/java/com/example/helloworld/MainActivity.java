@@ -19,6 +19,7 @@ public class MainActivity extends AppCompatActivity {
 
                 ((TextView) findViewById(R.id.text)).setTextColor(getResources().getColor(R.color.black));
             }
+            //just a commment
         });
     }
 }
